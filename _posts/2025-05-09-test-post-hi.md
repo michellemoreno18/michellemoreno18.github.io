@@ -11,7 +11,7 @@ How are you?
 
 ## Kelp Forest
 
-{% include image
+{% include image.liquid
   src="/assets/erick-morales-oyola-ByFnHcpapyU-unsplash.jpg"
   alt="Underwater kelp forest bathed in sunlight."
   title="Sunlight glistening through an arch in Catalina's kelp forest-a moment suspended between reef and sky."
