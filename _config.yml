@@ -42,6 +42,8 @@ minima:
 # Build settings
 theme: minima
 
+baseurl: /michi
+
 plugins:
  - jekyll-avatar
  - jekyll-sitemap

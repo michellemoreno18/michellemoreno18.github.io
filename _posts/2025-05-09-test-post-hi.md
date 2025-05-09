@@ -16,7 +16,7 @@ How are you?
   alt="Underwater kelp forest bathed in sunlight."
   title="Sunlight glistening through an arch in Catalina's kelp forest-a moment suspended between reef and sky."
   caption="
-    📷 by <https://unsplash.com/@ejmoralesoyola><br />
+    📷 by <a href="https://unsplash.com/@ejmoralesoyola">Erick Morales Oyola</a><br />
     📍 Catalina Island, California, USA
   "
 %}
